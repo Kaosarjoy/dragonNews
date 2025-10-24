@@ -22,3 +22,11 @@
 a.active{
   @apply bg-lime-500
 }
+.instagram-gradient {
+    background: linear-gradient(
+        to right, 
+        #833ab4, /* বেগুনি */
+        #fd1d1d, /* লাল */
+        #fcb045  /* কমলা */
+    );
+}
